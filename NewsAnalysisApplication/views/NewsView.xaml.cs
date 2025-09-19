@@ -1,3 +1,4 @@
+using System.Windows.Controls;
 using NewsAnalysisApplication.viewmodels;
 
 namespace NewsAnalysisApplication.views
