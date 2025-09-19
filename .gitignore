@@ -1,8 +1,2 @@
-NewsAnalysisApplication/obj/NewsAnalysisApplication.csproj.nuget.dgspec.json
-NewsAnalysisApplication/obj/NewsAnalysisApplication.csproj.nuget.g.props
-NewsAnalysisApplication/obj/project.assets.json
-NewsAnalysisApplication/obj/project.nuget.cache
-NewsAnalysisApplication/obj/Debug/net9.0-windows/NewsAnalysisApplication.AssemblyInfo.cs
-NewsAnalysisApplication/obj/Debug/net9.0-windows/NewsAnalysisApplication.AssemblyInfoInputs.cache
-NewsAnalysisApplication/obj/Debug/net9.0-windows/NewsAnalysisApplication.assets.cache
-NewsAnalysisApplication/obj/Debug/net9.0-windows/NewsAnalysisApplication.GeneratedMSBuildEditorConfig.editorconfig
+obj/
+bin/
